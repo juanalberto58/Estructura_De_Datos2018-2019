@@ -1,0 +1,12 @@
+Este directorio contiene los siguientes ficheros:
+
+1) ciudades.csv: contiene una primera linea de comentario y a continuacion por
+cada linea una ciudad. No tiene ningún orden a priori. Será el fichero con el que 
+se prueba los ejecutables.
+
+2) ciudades_sort_pais_ciudad.csv: son las ciudades existentes en ciudades.csv y estan
+ordenadas por pais (orden alfabetico) y a igualda de pais por ciudad. Este fichero sirve
+para comprobar  si vuestro TDA Ciudades contiene las ciudades en este orden de forma correcta
+
+3) ciudades_sort_ciudad.csv: son las ciudades ahora ordenadas solamente por ciudad. Igual que antes
+este fichero sirve para que comprobeis que el orden por ciudad que vosotros obteneis es correcto.

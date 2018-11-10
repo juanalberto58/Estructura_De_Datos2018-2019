@@ -1,0 +1,16 @@
+
+0 entra la primera vez
+PRueba entrada: Mandritsara;Madagascar;-15.8328;48.8166;9705
+
+1 PRueba entrada: Pago Pago;American Samoa;-14.2766;-170.707;12038
+
+2 PRueba entrada: Suileng;China;47.246;127.106;57456
+
+3 
+3 
+3 
+3 PRueba entrada: ;China;47.246;127.106;57456
+Pago Pago;American Samoa;-14.2766;-170.707;12038
+;China;47.246;127.106;57456
+Suileng;China;47.246;127.106;57456
+Mandritsara;Madagascar;-15.8328;48.8166;9705

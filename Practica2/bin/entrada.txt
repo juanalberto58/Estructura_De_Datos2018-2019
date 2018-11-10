@@ -1,0 +1,22 @@
+Madrid;España;15.15;20.20;152000
+Cadiz;España;87.98;79.56;159875
+Tesorillo;España;0.0;0.0;2789
+Granada;España;123.45;978.65;123456
+Almeria;America;123.45;978.65;123456
+Zaragoza;Armenia;15.15;20.20;152000
+Aaaaa;Pekin;87.98;79.56;159875
+zzzz;Zul;0.0;0.0;2789
+Hilo;Seco;123.45;978.65;123456
+Quiros;Martin;123.45;978.65;123456
+Ruiz;Sanchez;0.0;0.0;2789
+El Maiten;Argentina;-42.05;-71.1666;4269
+Makinsk;Kazakhstan;52.6404;70.41;20365
+Magdeburg;Germany;52.1304;11.62;227378
+Allahabad;India;25.455;81.84;1137219
+Brazzaville;Congo (Brazzaville);-4.25919;15.2847;1259445
+Haikou;China;20.05;110.32;1606808
+Abra Pampa;Argentina;-22.7167;-65.7;4480
+Ussuriysk;Russia;43.8;132.02;140673
+Moradabad;India;28.8418;78.7568;754069
+Londonderry;United Kingdom;55.0004;-7.33328;82635
+Londonderry;Anited Kingdom;55.0004;-7.33328;82635
