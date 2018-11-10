@@ -7,7 +7,7 @@
 #define PI 3.14159265
 #define RADIO_TIERRA 6378 //radio ecuatorial
 
-
+//Funciones proporcionadas por la asignatura ED
 /**
  * @brief Convierte grados a radianes
  * @param d: valor en grados
@@ -58,7 +58,7 @@ void Mensaje(){
   cout<<"4. Número de ciudades a mostrar." << endl;
   return;
 }
-
+//Funciones desarrolados por mí
 Ciudad obtenerCiudad(Ciudades misciudades,char* nombre, char* pais){
     Ciudad parametro;
     for(unsigned int i=0;i<misciudades.size();i++){

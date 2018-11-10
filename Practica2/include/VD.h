@@ -1,3 +1,4 @@
+//Archivo proporcionado por la asignatura ED
 #ifndef _VD_H_
 #define _VD_H_
 template <class T>
